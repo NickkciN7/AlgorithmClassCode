@@ -2,7 +2,7 @@
 Code for homeworks, quizes, exams, lectures
 
 ## Setup
-1. Download these into windows sub system for linux (wsl) directory
+1. Download these into a windows sub system for linux (wsl) directory
 2. Install node which is a javascript runtime environment allowing js running outside a browser. See https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04 for node and npm (step 3)
 3. Install node package manager (npm) so you can install 3rd party node packages.
 4. Run `npm install` at root directory to install the dependencies listed in the `package.json` file into a auto generated `node_modules` folder, like the base types files needed for typescript.
